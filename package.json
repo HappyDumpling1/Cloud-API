@@ -1,0 +1,12 @@
+{
+  "name": "my-express-api",
+  "version": "1.0.0",
+  "description": "Express API deployed on Vercel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/books.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
